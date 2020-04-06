@@ -3,11 +3,6 @@
 #You need to set your secret key and access key in your environment variables
 #Written in python 3
 
-
-Jacques Coetzee
-4:23 PM (0 minutes ago)
-to me
-
 import boto3
 #initialise a client to the s3 service
 client = boto3.client('s3')
